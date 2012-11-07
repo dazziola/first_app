@@ -5,4 +5,8 @@ class ApplicationController < ActionController::Base
   	true
   end
 
+  def another_test
+  	false
+  end
+
 end
