@@ -1,1 +1,5 @@
-Test Text for README AGAIN!
+First App.
+
+Seriously only getting used to how all of this GIT stuff works. From the outset it seems a bit much typing all these commands into the terminal, however the more you work in terminal, the more this becomes second nature!
+
+I can't wait to follow on by building the major app outlined in Michael Hartl's book!
